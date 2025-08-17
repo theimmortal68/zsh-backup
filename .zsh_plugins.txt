@@ -1,0 +1,24 @@
+# Core fish-like UX
+zsh-users/zsh-completions
+zsh-users/zsh-autosuggestions
+zsh-users/zsh-syntax-highlighting
+zsh-users/zsh-history-substring-search
+Aloxaf/fzf-tab
+
+# Navigation & quality of life
+romkatv/powerlevel10k
+olets/zsh-abbr
+
+# Optional extras (uncomment if desired)
+# z-shell/F-Sy-H        # faster highlighter alternative
+# ohmyzsh/ohmyzsh path:plugins/direnv # if you want oh-my-zsh's direnv plugin files
+
+junegunn/fzf
+agkozak/zsh-z
+zsh-users/zsh-history-enquirer
+MichaelAquilina/zsh-you-should-use
+zdharma-continuum/fast-syntax-highlighting
+zdharma-continuum/history-search-multi-word
+supercrabtree/k
+unixorn/git-extra-commands
+ohmyzsh/ohmyzsh path:plugins/extract
